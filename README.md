@@ -79,34 +79,31 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
+3. click on the
 
+![WhatsApp Image 2024-04-22 at 13 36 21_b779c779](https://github.com/AVINASH05T/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151514286/9675c9c5-08bc-4324-b974-27caa2f97900)
 
+![WhatsApp Image 2024-04-22 at 13 36 21_a3d9aa1d](https://github.com/AVINASH05T/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151514286/68cbeb71-33a7-4d41-836c-584b8ed49d4f)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![WhatsApp Image 2024-04-22 at 13 36 22_f9c942af](https://github.com/AVINASH05T/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151514286/5b679570-73f4-4eb4-b6fe-73b61e57be90
 
 
 ### output video and screen shots of pick and place 
 
+![WhatsApp Image 2024-04-22 at 13 36 16_b3e3720a](https://github.com/AVINASH05T/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151514286/37cf5db9-c7aa-4f85-9a8f-6e9d1d62f1b4)
 
+![WhatsApp Image 2024-04-22 at 13 36 17_e432a367](https://github.com/AVINASH05T/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151514286/9252aa72-fc81-4581-a7d1-4e8ff2ff952e)
 
+![WhatsApp Image 2024-04-22 at 13 36 17_20775add](https://github.com/AVINASH05T/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151514286/a2efd234-2556-4b4f-acfe-770f09d638fa)
+![WhatsApp Image 2024-04-22 at 13 36 19_5c068f84](https://github.com/AVINASH05T/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151514286/68320dcc-9908-4927-a080-d2bc05dffd78)
 
+![WhatsApp Image 2024-04-22 at 13 36 19_8d2ab8b6](https://github.com/AVINASH05T/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/151514286/24eb0d65-6d17-4773-8db7-af4a9a36e031)
 
+https://drive.google.com/file/d/1vEESJeq83Hd8zZatJ-KX99_7GxG7gBuU/view?usp=sharing
 
 
 ### Results: 
+Thus to pick and place a regular shape using two finger gripper on the conveyor belt 
 
 
 
