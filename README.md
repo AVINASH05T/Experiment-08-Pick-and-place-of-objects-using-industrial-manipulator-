@@ -103,7 +103,7 @@ https://drive.google.com/file/d/1vEESJeq83Hd8zZatJ-KX99_7GxG7gBuU/view?usp=shari
 
 
 ### Results: 
-Thus to pick and place a regular shape using two finger gripper on the conveyor belt 
+Thus to pick and place a regular shape using two finger gripper on the conveyor belt
 
 
 
